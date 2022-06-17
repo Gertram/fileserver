@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  display:block;
+  Padding:10px;
+  background: #AAAAAA;
+  margin:10px;
+  border-radius: 5px;
+}
